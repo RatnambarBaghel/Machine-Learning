@@ -60,12 +60,33 @@ from sklearn.datasets import load_breast_cancer
 
 ---
 
-# Training Loss Curve
+## 📈 Training Loss Curve
 
-<img src="images/loss_curve.png" width="700">
+The loss decreases steadily over the training epochs, indicating that Gradient Descent successfully minimizes the Binary Cross-Entropy Loss.
 
-The loss decreases steadily over epochs, showing that Gradient Descent successfully minimizes the Binary Cross-Entropy Loss and the model converges during training.
+<p align="center">
+  <img src="images/loss_curve.png" alt="Training Loss Curve" width="700">
+</p>
 
+---
+
+## 📊 Confusion Matrix
+
+The confusion matrix summarizes the model's predictions by showing True Positives, True Negatives, False Positives, and False Negatives.
+
+<p align="center">
+  <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="500">
+</p>
+
+---
+
+## 📋 Classification Report
+
+The classification report displays Precision, Recall, F1-Score, and Support for each class.
+
+<p align="center">
+  <img src="images/classification_report.png" alt="Classification Report" width="700">
+</p>
 ---
 
 ## Evaluation Metrics
