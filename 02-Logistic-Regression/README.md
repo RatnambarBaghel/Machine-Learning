@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+
 # Logistic Regression From Scratch using NumPy
 
 A complete implementation of **Logistic Regression from scratch** using **NumPy** without using `sklearn`'s `LogisticRegression` algorithm.
