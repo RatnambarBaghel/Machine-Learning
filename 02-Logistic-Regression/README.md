@@ -110,6 +110,6 @@ Through this project I learned:
 
 ## Author
 
-**Golu**
+**Ratnambar Baghel**
 
 Machine Learning Enthusiast 🚀
