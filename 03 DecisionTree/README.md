@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # 🌳 Decision Tree
 
 This folder contains my complete learning journey for the **Decision Tree** algorithm, starting from Binary Trees to building a real-world Machine Learning project.
