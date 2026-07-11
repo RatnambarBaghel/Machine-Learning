@@ -172,6 +172,15 @@ This project includes:
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ---
+## Decision Tree mini project Visualization
+
+![Decision Tree](images/heart_disease_status_distribution.png)
+
+## Correlation
+
+![Feature Importance](images/correlation_heatmap.png)
+
+---
 
 ## Key Learnings
 
